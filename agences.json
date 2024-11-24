@@ -1,0 +1,14 @@
+[
+    { "xId": 1, "xValide" : 1 , "name": "Manpower", "lat": 43.230707 , "lon": 0.072943, "Adresse": "23 rue Larrey, Résidence Foch, 65000 Tarbes", "Horaires": "Lundi à Vendredi, 9h00-12h00 et 14h00-18h00" },
+    { "xId": 2, "xValide" : 0 , "name": "Temporis", "lat": 43.230027 , "lon": 0.084553, "Adresse": "24 place du Foirail, 65000 Tarbes", "Horaires": "Lundi à Vendredi, 8h00-12h00 et 14h00-18h30" },
+    { "xId": 3, "xValide" : 1 , "name": "Adéquat Intérim & Recrutement", "lat": 43.2313 , "lon": 0.081865, "Adresse": "1 rue François Mousis, 65000 Tarbes", "Horaires": "Lundi à Vendredi, 8h00-12h00 et 14h00-18h00" },
+    { "xId": 4, "xValide" : 0 , "name": "R.A.S Intérim", "lat": 43.21868 , "lon": 0.071417, "Adresse": "63 rue Carnot, 65000 Tarbes", "Horaires": "Lundi à Vendredi, 8h30-12h00 et 14h00-17h50 (24h/24 téléphone)" },
+    { "xId": 5, "xValide" : 0 , "name": "Arobase Intérim", "lat": 43.228477 , "lon": 0.076878, "Adresse": "9 rue du 4 septembre, 65000 Tarbes", "Horaires": "Lundi à Vendredi, horaires non spécifiés" },
+    { "xId": 6, "xValide" : 0 , "name": "Synergie", "lat": 43.240826 , "lon": 0.076183, "Adresse": "6 avenue des Forges, 65000 Tarbes", "Horaires": "Lundi à Vendredi, 8h00-12h00 et 14h00-18h00" },
+    { "xId": 7, "xValide" : 0 , "name": "Randstad", "lat": 43.218527 , "lon": 0.070703, "Adresse": "30 bis rue Carnot, 65000 Tarbes", "Horaires": "Horaires non spécifiés" },
+    { "xId": 8, "xValide" : 0 , "name": "Adecco", "lat": 43.242341 , "lon": 0.077145, "Adresse": "9 Rue du Magasin aux Tabacs, 65000 Tarbes", "Horaires": "Lundi, 14h00-18h00 ; Mardi à Jeudi, 8h00-12h00 et 14h00-18h00" },
+    { "xId": 9, "xValide" : 0 , "name": "Proman", "lat": 43.23488 , "lon": 0.071711, "Adresse": "10 Rue Georges Lassalle, 65000 Tarbes", "Horaires": "Horaires non spécifiés" },
+    { "xId": 10, "xValide" : 0 , "name": "Samsic Emploi", "lat": 43.231019 , "lon": 0.084553, "Adresse": "32 place Marcadieu, 65000 Tarbes", "Horaires": "Horaires non spécifiés" },
+    { "xId": 11, "xValide" : 0 , "name": "Actual", "lat": 43.240918 , "lon": 0.07658, "Adresse": "6 Bis avenue Forges, 65000 Tarbes ", "Horaires": "Horaires non spécifiés" },
+    { "xId": 12, "xValide" : 1 , "name": "CRIT", "lat": 43.2287927 , "lon": 0.082648, "Adresse": "38 Rue du 4 Septembre, 65000 Tarbes", "Horaires": "Horaires non spécifiés" }
+]
